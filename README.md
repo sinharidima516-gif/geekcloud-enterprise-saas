@@ -2,7 +2,7 @@
 
 **Type:** Real internal project (Mphasis) — Business Analysis & Product Support
 **Role:** Product Analyst / Business Analyst contributor
-**Status:** 🟡 Draft — sanitize before making this repo public (see note below)
+**Status:** Draft — sanitize before making this repo public (see note below)
 
 ---
 
@@ -32,10 +32,5 @@ Supported business analysis and feature validation on the platform:
 
 ## 5. Artifacts
 
-*(Only add sanitized/generic versions — no real screenshots, internal docs, or client-identifying data)*
-- [ ] Persona journey map (generalized) → `artifacts/`
-- [ ] Sample acceptance criteria template (generic, not from actual tickets) → `artifacts/`
-
 ## 6. Reflections
 
-*(Add your own — what you'd improve about the UAT process, what you learned about marketplace/matching logic, what you'd want more ownership over next time.)*
